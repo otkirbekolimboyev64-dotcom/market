@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#grad)"/>
+  <path d="M192 180 C192 130 320 130 320 180" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <rect x="140" y="180" width="232" height="200" rx="24" fill="#ffffff" fill-opacity="0.15" stroke="#ffffff" stroke-width="18"/>
+  <text x="256" y="315" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="80" font-weight="900" text-anchor="middle" letter-spacing="-2">PM</text>
+</svg>
